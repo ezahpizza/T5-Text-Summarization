@@ -64,7 +64,7 @@ This project uses pip as package manager
 ```
 
 or install the packages through cmd by running pip with the requirements file in the
-[repository](https://github.com/ezahpizza/BERT_Question_Answering)
+[repository](https://github.com/ezahpizza/T5-Text-Summarization)
 ## Usage
 
 
@@ -112,7 +112,7 @@ The legislation outlines requirements for environmental assessments, public cons
 - For detailed instructions on configuration, customization, and troubleshooting, refer to the `README.md` file in the project repository.
 - For any issues or questions, you can reach out through the project’s issue tracker or contacts. 
 
-This straightforward usage guide enables users to quickly engage with the Question Answering system, making it easy to access its functionalities and derive meaningful insights.
+This straightforward usage guide enables users to quickly engage with the summarising system, making it easy to access its functionalities and derive meaningful insights.
 
 
 ## License
